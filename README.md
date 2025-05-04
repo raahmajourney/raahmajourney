@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahma
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Android
 - 📫 How to reach me r233844@gmail.com
