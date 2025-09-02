@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Rahma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android
-- 📫 How to reach me r233844@gmail.com
+# Hi there, I'm Rahma 👋
+
+🌐 Passionate about **Web Development**  
+💻 Currently learning **PHP** & **JavaScript**  
+🤝 Open to collaborate on **website projects**  
+📬 Reach me at **r233844@gmail.com**
+
+---
+✨ Always excited to learn, build, and share!
 
 <!---
 raahmajourney/raahmajourney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
